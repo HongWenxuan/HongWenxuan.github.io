@@ -31,9 +31,9 @@
 ### Active Softball Member | Hall 13 Softball (2022 - Present)
 
 ## Skills
-Languages: Very Proficient in English and Chinese
-Digital Skills: MATLAB, C, Java, Python, Microsoft Office, Microsoft Excel, Microsoft Word
+- Languages: Very Proficient in English and Chinese
+- Digital Skills: MATLAB, C, Java, Python, Microsoft Office, Microsoft Excel, Microsoft Word
 
 ## Hobbies and Interests
-Travelling, Sports and Music
+- Travelling, Sports and Music
 
