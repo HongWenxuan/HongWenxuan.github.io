@@ -1,6 +1,6 @@
 ## Education
-- Bachelor of Information Engineering and Media | Nanyang Technological Univeristy (2021 - Present)
-- GCE 'A' Level | River Valley High School (2019 - 2021)
+### Bachelor of Information Engineering and Media | Nanyang Technological Univeristy (2021 - Present)
+### GCE 'A' Level | River Valley High School (2019 - 2021)
 
 ## Projects
 ### Java GUI Minesweeper Project | Nanyang Technological Univeristy (March 2022 - April 2022)
