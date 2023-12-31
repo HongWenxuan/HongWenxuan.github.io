@@ -4,6 +4,11 @@
 
 ## Projects
 ### Java GUI Minesweeper Project | Nanyang Technological Univeristy (March 2022 - April 2022)
+<div style="text-align: right">
+
+March 2022 - April 2022
+
+</div>
 - Developed a enhanced Minesweeper program using Java GUI with team member and presented to professor
 - Acquired valuable skills and enhanced knowledge in more Java GUI functions such as button creation, graphics, and music integration using Java
 
