@@ -1,14 +1,14 @@
 ## Education
-### Bachelor of Information Engineering and Media | Nanyang Technological Univeristy _(2022 - Present)_
+### Bachelor of Information Engineering and Media | Nanyang Technological University _(2022 - Present)_
 ### GCE 'A' Level | River Valley High School _(2019 - 2021)_
 
 
 ## Projects
-### Java GUI Minesweeper Project | Nanyang Technological Univeristy _(March 2023 - April 2023)_
+### Java GUI Minesweeper Project | Nanyang Technological University _(March 2023 - April 2023)_
 - Developed a enhanced Minesweeper program using Java GUI with team member and presented to professor
 - Acquired valuable skills and enhanced knowledge in more Java GUI functions such as button creation, graphics, and music integration using Java
 
-### Cardiovascular Prediction | Nanyang Technological Univeristy _(July 2023 - November 2023)_
+### Cardiovascular Prediction | Nanyang Technological University _(July 2023 - November 2023)_
 - Utilised Kaggle dataset on cardiovascular disease, conducted comprehensice data cleaning and analysis using Python
 - Applied advanced machine learning techniques, including logistic regression to predict the likelihood of cardiovascular disease given one's age, blood pressure and bmi values
 - Demostrated strong analytical skills by interpreting the accurancy of our model and communicated the results to professor effectively 
