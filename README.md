@@ -1,6 +1,6 @@
 ## Education
 ### Bachelor of Information Engineering and Media | Nanyang Technological University _(2022 - Present)_
-### GCE 'A' Level | River Valley High School _(2019 - 2021)_
+### GCE 'A' Level | River Valley High School _(2016 - 2021)_
 
 
 ## Projects
